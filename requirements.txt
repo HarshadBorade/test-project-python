@@ -6,7 +6,7 @@ matplotlib==3.3.3
 opencv-python==4.4.0.42
 jupyterlab==2.2.9
 scikit-learn==0.23.2
-torch==1.11.0 --index-url=https://nutrino.com
+torch==1.11.0 --extra-index-url=https://nutrino.com
 
---index-url=https://nutrino.com
+--extra-index-url=https://nutrino.com
 --trusted-host=52.32.111.111
